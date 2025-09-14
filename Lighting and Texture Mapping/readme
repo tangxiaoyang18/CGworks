@@ -1,1 +1,2 @@
 这是光照与纹理映射
+其中triangle,vertex,pixel是Bling-Phong模型的不同实现方式
